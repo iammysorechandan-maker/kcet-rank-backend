@@ -70,6 +70,10 @@ class RankPredictor:
 
         rank_2026 = int(rank_2025 * multiplier)
 
+        print("Rank:", rank_2025)
+        print("Multiplier:", multiplier)
+        print("2026:", rank_2026)
+
         print("------------")
         print("2025:", rank_2025)
         print("Multiplier:", multiplier)
